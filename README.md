@@ -1,6 +1,12 @@
-# docopt2 🚀
+# docopt2
 
-**The usage string is the specification.**
+<div align="center">
+  <h1>Docopt 2.0</h1>
+  <p><strong>Usage is Truth.</strong></p>
+  <p>A modular, type-safe CLI parsing pipeline built on Python frozen dataclasses and an immutable backtracking engine.</p>
+</div>
+
+> The usage string is the specification.
 
 `docopt2` is a modern, high-performance, and type-safe re-imagining of the classic `docopt` library. Instead of relying on a monolithic block of procedural regex, `docopt2` utilizes a structured **Intermediate Representation (IR) pipeline** to transform your CLI documentation into a verifiable Abstract Syntax Tree (AST).
 
