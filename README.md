@@ -1,5 +1,3 @@
-# docopt2
-
 <div align="center">
   <h1>Docopt 2.0</h1>
   <p><strong>Usage is Truth.</strong></p>
